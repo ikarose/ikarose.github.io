@@ -4,9 +4,9 @@
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://blog.ikarose.me/"/>
+  <link href="http://www.ikarose.me/"/>
   <updated>2017-04-07T06:56:05.971Z</updated>
-  <id>http://blog.ikarose.me/</id>
+  <id>http://www.ikarose.me/</id>
   
   <author>
     <name>ikarose</name>
@@ -17,8 +17,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://blog.ikarose.me/2017/04/07/hello-world/"/>
-    <id>http://blog.ikarose.me/2017/04/07/hello-world/</id>
+    <link href="http://www.ikarose.me/2017/04/07/hello-world/"/>
+    <id>http://www.ikarose.me/2017/04/07/hello-world/</id>
     <published>2017-04-07T06:56:05.971Z</published>
     <updated>2017-04-07T06:56:05.971Z</updated>
     
